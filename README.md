@@ -4,15 +4,17 @@ Repo for a project with the goal of controlling the temperature of a heating pad
 
 ## Components
 
-Arduino Uno
-[DS18B20 Temperature Water Sensor](https://www.electrokit.com/produkt/temperatursensor-vattentat-ds18b20/?gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51W8wtjMgXes7MsxoUsiI1zMgtzcqV4q0rrqWb3xKCoNye7ulqzY58aAo4wEALw_wcB).
-[Heating Pad](https://www.electrokit.com/produkt/varmedyna-5x10cm/).
-[Mosfet](https://www.electrokit.com/produkt/tip122-to-220-npn-100v-5a/).
-[Diode](https://www.electrokit.com/en/product/1n4001-do-41-50v-1a-2/).
-Resistors (10 kohm and 4.7 kohm), Breadboard and Jumper Wires.
+Arduino Uno.
 
- an Adafruit Feather nRF52 to measure capacitances and to transmit the signal via Bluetooth Low Energy.
-This repo also contains an Android App, developed with MIT App Inventor, for reading the signal.
+[DS18B20 Temperature Water Sensor](https://www.electrokit.com/produkt/temperatursensor-vattentat-ds18b20/?gclid=Cj0KCQiAqvaNBhDLARIsAH1Pq51W8wtjMgXes7MsxoUsiI1zMgtzcqV4q0rrqWb3xKCoNye7ulqzY58aAo4wEALw_wcB).
+
+[Heating Pad](https://www.electrokit.com/produkt/varmedyna-5x10cm/).
+
+[Mosfet](https://www.electrokit.com/produkt/tip122-to-220-npn-100v-5a/).
+
+[Diode](https://www.electrokit.com/en/product/1n4001-do-41-50v-1a-2/).
+
+Resistors (10 kohm and 4.7 kohm), LED, Breadboard and Jumper Wires.
 
 ## Sketch
 
